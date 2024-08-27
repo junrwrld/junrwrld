@@ -8,7 +8,7 @@
 <!-- Stats -->
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=junrwrld&show_icons=true&theme=gruvbox_light&rank_icon=github" style="max-width:100%;"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junrwrld&layout=compact&theme=gruvbox_light" style="max-width:100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junrwrld&layout=compact&theme=gruvbox_light&hide=css" style="max-width:100%;">
 </div>
 
   
