@@ -28,26 +28,5 @@ Ao longo dessa jornada, participei do desenvolvimento de **APIs em .NET**, **man
   - Boas práticas de versionamento e documentação
 
 ---
-
-## 👤 Sobre mim
-
-Sou uma pessoa:
-
-- 🤝 Comunicativa e colaborativa
-- 😊 Tranquila e extrovertida
-- 📚 Sempre em busca de aprender mais e evoluir
-
-Acredito na importância de um **ambiente de trabalho empático e respeitoso**, onde o crescimento coletivo e a troca de experiências fazem toda a diferença.
-
----
-
-## 📌 Objetivos
-
-🎯 Fortalecer minha base técnica e evoluir como desenvolvedor  
-🚀 Contribuir com projetos que gerem impacto real  
-🤝 Trabalhar em times onde o respeito e a colaboração são valores essenciais
-
----
-
 💬 Fique à vontade para me chamar para conversar, trocar ideias ou colaborar em projetos!
 
