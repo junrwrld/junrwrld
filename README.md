@@ -1,26 +1,8 @@
-<!-- Introdução -->
-<div align="center">
-  <a hfer="https://github.com/junrwrld">
-  <h1 class= "title"> Olá, eu sou o João  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%"> </h1>
-  </a>  
-<div/>
+Olá! :)
+Sou João Júnior, Desenvolvedor de Software Júnior, atualmente atuando como estagiário na PRODAM-SP, onde venho adquirindo experiência prática em projetos de grande impacto na área da saúde pública, como o GSS (Gestão de Sistemas de Saúde).
 
-<!-- Stats -->
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=junrwrld&show_icons=true&theme=gruvbox_light&rank_icon=github" style="max-width:100%;"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junrwrld&layout=compact&theme=gruvbox_light&hide=css" style="max-width:100%;">
-</div>
+Participei do desenvolvimento de funcionalidades importantes, como APIs em .NET, manutenção de sistemas legados em ASP Classic, e soluções que aprimoraram a logística de medicamentos e o controle de estoque, incluindo sistemas para ajuste por lote e entrega domiciliar com uso de API dos Correios.
 
-  
-</div>
-<!-- Linguagens -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="Joao-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Joao-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">       
-          
-</div>
-  
+Tenho me dedicado ao fortalecimento da minha base técnica em C#, arquitetura orientada a domínio (DDD), Docker e SQL Server, além do estudo e aplicação de boas práticas de testes automatizados — com foco em testes unitários, integrados e de carga com JMeter.
+
+Sou uma pessoa tranquila, extrovertida e atenciosa, que acredita na importância de um ambiente empático e respeitoso no trabalho. Valorizo a comunicação clara e o trabalho em equipe, sempre buscando crescer como profissional e contribuir de forma positiva com quem está ao meu redor.
