@@ -19,7 +19,7 @@ Ao longo dessa jornada, participei do desenvolvimento de **APIs em .NET**, **man
 
 ## 🧠 Conhecimentos e Tecnologias
 
-- **Linguagens:** C#, SQL, JavaScript, 
+- **Linguagens:** C#, SQL, JavaScript, ASP Classic, Java
 - **Frameworks e ferramentas:** .NET, ASP Classic, Docker, JMeter
 - **Banco de dados:** SQL Server, Postgresql, Oracle, MongoDB
 - **Práticas e metodologias:**  
